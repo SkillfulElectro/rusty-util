@@ -5,9 +5,9 @@ edition = "2021"
 authors = ["ElectroMutex"]
 description = "This project will be contained with small utilities"
 license = "MIT"
-documentation = "https://github.com/SkillfulElectro/EMDisi.git"
-homepage = "https://github.com/SkillfulElectro/EMDisi.git"
-repository = "https://github.com/SkillfulElectro/EMDisi.git"
+documentation = "hhttps://github.com/SkillfulElectro/rusty-util.git"
+homepage = "https://github.com/SkillfulElectro/rusty-util.git"
+repository = "https://github.com/SkillfulElectro/rusty-util.git"
 readme = "README.md"
 
 [dependencies]
