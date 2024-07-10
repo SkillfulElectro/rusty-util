@@ -1,0 +1,13 @@
+[package]
+name = "EMUtil"
+version = "0.1.0"
+edition = "2021"
+authors = ["ElectroMutex"]
+description = "This project will be contained with small utilities"
+license = "MIT"
+documentation = "https://github.com/SkillfulElectro/EMDisi.git"
+homepage = "https://github.com/SkillfulElectro/EMDisi.git"
+repository = "https://github.com/SkillfulElectro/EMDisi.git"
+readme = "README.md"
+
+[dependencies]
